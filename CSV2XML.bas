@@ -36,7 +36,7 @@ Sub CSV2XML()
 '
 ' Zet de waarden die vast zijn
 '
-    Directory = "D:\Data\Sync Gedeeld\Agenda & Mail\Outlook back-up\"
+    Directory = "C:\Data\Sync Gedeeld\Agenda & Mail\Outlook back-up\"
     OutlookCSV = "OUTLOOK.CSV"
     Converter = "Converter.xlsm"
 '
